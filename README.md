@@ -1,4 +1,5 @@
 # BottomTabLayoutIcon
+## 最近更新:添加设置Icon文字的状态颜色代码
 ##适用于选中时Icon改变的BottomLayout[![](https://jitpack.io/v/Brioal/BottomTabLayoutIcon.svg)](https://jitpack.io/#Brioal/BottomTabLayoutIcon)
 ![](https://github.com/Brioal/BottomTabLayoutIcon/blob/master/art/device-2016-10-02-214523.png)
 ###Step 1. Add the JitPack repository to your build file
@@ -15,7 +16,7 @@
 ####Step 2. Add the dependency
 ```
 	dependencies {
-	        compile 'com.github.Brioal:BottomTabLayoutIcon:1.1'
+	        compile 'com.github.Brioal:BottomTabLayoutIcon-master:1.0'
 	}
 ```
 ####使用方法:
